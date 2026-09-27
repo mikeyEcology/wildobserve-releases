@@ -1,6 +1,6 @@
 # WildObserve releases
 
-Downloads of [WildObserve](https://qsc.earth), a desktop app that turns camera-trap images into reviewed wildlife observations. Your images, their metadata and your annotations never leave your computer.
+Downloads of WildObserve, a desktop app that turns camera-trap images into reviewed wildlife observations. Your images, their metadata and your annotations never leave your computer.
 
 **To install:** open the newest release below and download the `.dmg` for Mac (Apple Silicon).
 
