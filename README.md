@@ -21,6 +21,7 @@ The Community plan is free. See [Plans](https://www.qsc.earth/WildObserve/plans.
 ## What else is here
 
 - **`latest.json`** in each release tells WildObserve's update check about that version. The app reads it from the newest release; it sends nothing but its own version and operating system.
+- **`downloads.csv`** counts each day's downloads of the newest release's files. A workflow updates it every hour from GitHub's download totals.
 - **The `licenses` pre-release** holds license files for activation by key. Each is encrypted with its license key and named by it, so it names no one and opens only with the key.
 
 WildObserve is made by [Quantitative Science Consulting, LLC](https://www.qsc.earth). The source code isn't in this repository.
